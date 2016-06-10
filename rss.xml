@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[hashtags and comments]]></title>
         <description><![CDATA[hashtags and comments]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hashtags-and-comments/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 13:52:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 17:03:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hashtags-and-comments/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Training my Grid]]></title>
+            <description><![CDATA[<article><h1>Training my Grid</h1><p>with images :)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ff6f832-066f-47ab-89e5-f4ce8e3c0578.png"></article>]]></description>
+            <link>https://thegrid.ai/hashtags-and-comments/training-my-grid/index.html</link>
+            <guid isPermaLink="false">d3cac036-c801-4ad2-9fcb-244111759e79</guid>
+            <pubDate>Fri, 10 Jun 2016 17:03:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#Hashtagology 101: How to Use Hashtags in Your Social Media Content]]></title>
             <description><![CDATA[<article><h1>#Hashtagology 101: How to Use Hashtags in Your Social Media Content</h1><p>By Jonathan Crossfield published February 28, 2014 It took a while, but Facebook finally succumbed to the hashtag in June 2013. Now this humble little symbol can connect conversations on Twitter, Facebook, Tumblr, Instagram, Google+ and Pinterest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17b58c043b9c0bb5f32967ce19b49e73d53d2dd9.jpg"></article>]]></description>
